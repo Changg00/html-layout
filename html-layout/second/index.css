@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    padding: 20px;
+
+}
+
+.Logic-One{
+    width: 100%;
+    border: 7px solid black;
+    padding: 9px;
+    box-sizing: border-box ;
+
+}
+
+.Rect-One{
+    height: 170px;
+    width: 45px;
+    background-color:rgb(103, 51, 133);
+    display: inline-block;
+    
+
+}
+
+.Rect-two{
+    height: 225px;
+    width: 388px;
+    display: inline-block;
+    background-color: green;
+    margin: 0 50px;
+
+}
+
+.blue-circle{
+    height: 250px;
+    width: 250px;
+    border-radius: 60%;
+    background-color:rgb(73, 212, 246);
+    display: inline-block;
+
+
+}
+
+.Logic-Two{
+    width: 100%;
+    border: 5px dotted black;
+    padding: 50px;
+    box-sizing: border-box;
+    margin-top: 50px;
+}
+
+.dotted-box{
+    width: 100%;
+    height: 200px;
+    background-color:rgb(223, 223, 172)
+
+}
+.small-border {
+    width: 30%;
+    border: 2px solid cornsilk;
+    background-color: white;
+    padding: 90px;
+    box-sizing: border-box;
+    margin: 35px auto;
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+  -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+  box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+}
+
+  .small-border h1 {
+      width: 100%;
+      text-align: center;
+      color: rgb(25, 25, 121);
+      letter-spacing: 8px; 
+    }
+    
